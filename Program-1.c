@@ -1,4 +1,4 @@
-//Program to find number of digits in the input
+
 //INPUT - 452
 //OUTPUT -3
 #include <stdio.h>
