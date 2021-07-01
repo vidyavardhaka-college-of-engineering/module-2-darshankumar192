@@ -32,4 +32,4 @@ printf("Total number of even numbers and odd numbers in the array are %d and
 %d\n",evennum,oddnum);
 //printf("Total number of odd numbers in the array : %d\n", );
 return(0); 
-}   
+}    
