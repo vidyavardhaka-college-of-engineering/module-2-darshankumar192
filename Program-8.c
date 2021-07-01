@@ -6,7 +6,7 @@ int main(){
  printf("Enter size of the array, array elemnts and the key");
  scanf("%d",&n);
  //printf("Enter array elements");
-  for(i=0;i<n;i++)
+ for(i=0;i<n;i++)
  scanf("%d",&a[i]);
  //printf("Enter an integer value : ");
  scanf("%d",&key);
@@ -23,4 +23,3 @@ int main(){
  
  return(0);
 }
-
